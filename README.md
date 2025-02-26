@@ -2,7 +2,9 @@
 
 ## Setup
 
-### install modules of Python
+### 1. Install Python
+
+### 2. install modules of Python
 
 ```
 pip3 install fastapi
