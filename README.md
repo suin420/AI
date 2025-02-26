@@ -17,3 +17,9 @@ pip3 install "uvicorn[standard]"
 > uvicorn api_server:app --host 0.0.0.0 --port 9000
 // if you want to change port number, modify value of `--port`
 ```
+
+## Documentation
+
+- Use Open API Document (Swagger Page)
+  - During server is running, Access `https://127.0.0.1:9000/docs` in Web Browser.
+  - you can see the documents of API and you can also test it.
